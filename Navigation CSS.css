@@ -1,0 +1,13 @@
+body {
+    background-color: rgba(191, 224, 223, 1);
+}
+.Title {
+    background-color: rgba(138, 47, 56, 1);
+    color: rgba(233, 233, 230, 1);
+    font-size: 55px;
+    margin: 0 500px;
+    padding: 20px 50px;
+    text-align: center;
+    display: inline-block;
+    border-radius: 15px;
+}
