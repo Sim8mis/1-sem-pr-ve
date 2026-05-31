@@ -25,3 +25,22 @@ body {
     right: 20px;
     width: 45px;
 }
+.column {
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    height: 100px;
+    position: absolute;
+    top: 50%;
+    right: 600px;
+}
+.buttons {
+    color: rgba(233, 233, 230, 1);
+    background-color: rgba(79, 58, 102, 1);
+    font-size: 2rem;
+    text-align: center;
+    line-height: 2;
+    margin: 3px;
+    padding: 5px;
+    border-radius: 50px;
+}
