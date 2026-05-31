@@ -5,9 +5,23 @@ body {
     background-color: rgba(138, 47, 56, 1);
     color: rgba(233, 233, 230, 1);
     font-size: 55px;
-    margin: 0 500px;
+    margin: -20px 500px;
     padding: 20px 50px;
     text-align: center;
     display: inline-block;
     border-radius: 15px;
+}
+.Home {
+    width: 55px;
+}
+.Seach {
+    position: absolute;
+    top: 20px;
+    right: 80px;
+}
+.Menu {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    width: 45px;
 }
