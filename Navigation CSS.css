@@ -53,3 +53,11 @@ body {
     background-color: rgba(100, 75, 130, 1);
     cursor: pointer;
 }
+.Explain {
+    color: rgba(233, 233, 230, 1);
+    background-color: rgba(79, 58, 102, 1);
+    border-radius: 8px;
+    font-size: 2rem;
+    padding: 5px 14px;
+    margin: 120px 420px;
+}
